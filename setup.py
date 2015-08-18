@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(name='django-pure-pagination',
       version='0.2',
       author='James Pacileo',
-      long_description = open('README.rst').read(),
+      # long_description = open('README.rst').read(),
       license='BSD',
       keywords='pagination, django',
       classifiers=[
